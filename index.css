@@ -1,0 +1,188 @@
+body {
+	scroll-behavior: smooth;
+}
+.navbar {
+	font-family: "Montserrat";
+}
+
+.navbar-brand {
+	font-family: "Poller One";
+}
+
+.nav-link:hover {
+	background-color: #2d3339;
+}
+
+.bg-img {
+	background-color: #bbd0f5;
+	background-image: url("./images/output-onlinepngtools-12.png");
+	height: 100vh;
+	padding-top: 1rem;
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+.title {
+	color: #212529;
+	font-family: "Pacifico";
+}
+
+.subtitle {
+	color: #2c4251;
+	font-family: "Maven Pro";
+}
+
+.bg-img-2 {
+	background-color: #8e6c88;
+	background-image: url("./images/output-onlinepngtools-11.png");
+	min-height: 100vh;
+	padding: 50px;
+	padding-bottom: 10rem;
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+.motto-text {
+	color: antiquewhite;
+	font-family: "Permanent Marker";
+	padding-top: 10rem;
+	/* padding-bottom: 13rem; */
+}
+
+.motto-text-2 {
+	color: antiquewhite;
+	font-family: "Permanent Marker";
+	text-align: center;
+}
+
+.bg-img-3 {
+	background-color: #91c499;
+	background-image: url("./images/output-onlinepngtools-10.png");
+	min-height: 100vh;
+	padding: 50px;
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+.about-me-title {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+	padding-top: 7rem;
+}
+
+.about-me-text {
+	color: #2c4251;
+	font-family: "Montserrat";
+}
+
+.about-me-title-2 {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+	padding-bottom: 3rem;
+}
+
+.bg-img-4 {
+	background-color: #cfd11a;
+	background-image: url("./images/output-onlinepngtools-13.png");
+	min-height: 170vh;
+	padding: 50px;
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+.projects-title {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+	padding-top: 1rem;
+}
+
+.projects-title-2 {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+	padding-top: 3rem;
+}
+
+.app-title-1 {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+}
+
+.app-title-2 {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+	padding-top: 10%;
+}
+
+.project-1 {
+	height: 70vh;
+	padding-bottom: 5px;
+	padding-left: 3rem;
+	padding-right: 3rem;
+}
+
+.project-2 {
+	height: 35vh;
+	padding-top: 1rem;
+}
+
+.bg-img-5 {
+	background-color: #f4b886;
+	background-image: url("./images/output-onlinepngtools-14.png");
+	max-height: 100vh;
+	padding: 50px;
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+.skills-title {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+	padding-top: 5%;
+}
+
+.skills-title-2 {
+	color: black;
+	font-family: "Montserrat";
+	font-style: oblique;
+	padding-top: 3rem;
+}
+
+.bg-img-6 {
+	background-color: #ff8133;
+	background-image: url("./images/output-onlinepngtools-15.png");
+	min-height: 80vh;
+	padding: 50px;
+	background-size: 100%;
+	background-position: center top;
+	background-attachment: fixed;
+	background-repeat: repeat;
+}
+
+.contact {
+	color: black;
+	font-family: "Montserrat";
+	padding-top: 3%;
+}
+
+footer {
+	background-color: #212529;
+	font-family: "Maven Pro";
+	padding-top: 10px;
+}
